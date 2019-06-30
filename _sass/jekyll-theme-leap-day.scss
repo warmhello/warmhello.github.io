@@ -17,7 +17,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#333;
+  color:#504949;
   margin:0 0 10px;
 }
 
@@ -35,11 +35,9 @@ h1 {
 
 h2 {
   font-size: 24px;
-  color:#393939;
 }
 
 h3, h4, h5, h6 {
-  color:#666666;
 }
 
 h3 {
@@ -88,12 +86,12 @@ blockquote {
 
 code {
   font-family: 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size:13px;
+  font-size:14px;
   color:#efefef;
-  text-shadow: 0px 1px 0px #000;
+  text-shadow: 0px 1px 0px #f4bf75;
   margin: 0 4px;
   padding: 2px 6px;
-  background: #333;
+  background: #ff7600;
   border-radius: 2px;
 }
 
